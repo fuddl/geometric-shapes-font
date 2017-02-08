@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25E4-BLACK UPPER LEFT TRIANGLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -2600 -2600)" figma:type="canvas">
+<g id="u25E4-BLACK UPPER LEFT TRIANGLE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 52 52L 64 52L 64 64L 52 64L 52 52Z" fill="#FFFFFF"/>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="matrix(-1 1.22465e-16 -1.22465e-16 -1 64 64)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 12 0L 0 12L 12 12L 12 0Z"/>
+</defs>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2B2D-WHITE HORIZONTAL ELLIPSE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -8550 -2900)" figma:type="canvas">
+<g id="u2B2D-WHITE HORIZONTAL ELLIPSE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 171 58L 183 58L 183 70L 171 70L 171 58Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(171 61)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6 6C 9.31371 6 12 4.65685 12 3C 12 1.34315 9.31371 0 6 0C 2.68629 0 0 1.34315 0 3C 0 4.65685 2.68629 6 6 6ZM 6 5C 8.76143 5 11 4.10457 11 3C 11 1.89543 8.76143 1 6 1C 3.23857 1 1 1.89543 1 3C 1 4.10457 3.23857 5 6 5Z"/>
+</defs>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25AC-BLACK RECTANGLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 0 -7850)" figma:type="canvas">
+<g id="u25AC-BLACK RECTANGLE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M -1.15463e-14 157L 12 157L 12 169L -1.15463e-14 169L -1.15463e-14 157Z" fill="#FFFFFF"/>
+<g id="Rectangle" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_fill" transform="translate(-2.22045e-14 159)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 12 0L 12 8L 0 8L 0 0Z"/>
+</defs>
+</svg>

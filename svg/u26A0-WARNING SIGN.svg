@@ -1,0 +1,15 @@
+<svg width="700" height="600" viewBox="0 0 700 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u26A0-WARNING SIGN</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -8750 -9750)" figma:type="canvas">
+<g id="u26A0-WARNING SIGN" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 175 195L 188.86 195L 188.86 207L 175 207L 175 195Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(175 195)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6.92821 0L 13.8564 12L 0 12L 6.92821 0ZM 6.94615 2L 12.1423 11L 1.75 11L 6.94615 2ZM 6.5 4L 7.5 4L 7.5 8L 6.5 8L 6.5 4ZM 6.5 9L 7.5 9L 7.5 10L 6.5 10L 6.5 9Z"/>
+</defs>
+</svg>

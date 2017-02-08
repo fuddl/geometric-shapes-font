@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u262F-YIN YANG</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -6900 -9550)" figma:type="canvas">
+<g id="u262F-YIN YANG" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 138 191L 150 191L 150 203L 138 203L 138 191Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(138 191)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6 12C 9.31371 12 12 9.31371 12 6C 12 2.68629 9.31371 0 6 0C 2.68629 0 0 2.68629 0 6C 0 9.31371 2.68629 12 6 12ZM 6 11C 8.76143 11 11 8.76143 11 6C 11 5.93271 10.9987 5.86574 10.996 5.7991C 10.9225 7.02615 9.83307 8 8.5 8C 7.11929 8 6 6.95534 6 5.66667C 6 4.37801 4.88071 3.33334 3.5 3.33334C 2.35515 3.33334 1.39003 4.05162 1.0937 5.03165C 1.03223 5.34492 1 5.6687 1 6C 1 8.76143 3.23857 11 6 11ZM 8.5 6.75C 9.05229 6.75 9.5 6.30229 9.5 5.75C 9.5 5.19771 9.05229 4.75 8.5 4.75C 7.94771 4.75 7.5 5.19771 7.5 5.75C 7.5 6.30229 7.94771 6.75 8.5 6.75ZM 3.5 6.75C 4.05229 6.75 4.5 6.30229 4.5 5.75C 4.5 5.19771 4.05229 4.75 3.5 4.75C 2.94771 4.75 2.5 5.19771 2.5 5.75C 2.5 6.30229 2.94771 6.75 3.5 6.75Z"/>
+</defs>
+</svg>

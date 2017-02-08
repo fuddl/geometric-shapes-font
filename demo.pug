@@ -1,0 +1,275 @@
+doctype html
+html
+  head
+    style.
+      @import 'https://necolas.github.io/normalize.css/5.0.0/normalize.css';
+      @font-face {
+        font-family: 'Geometric Shapes';
+        src: url('../dist/Geometric Shapes.woff');
+      }
+
+      body {
+        font-family: 'Geometric Shapes', sans-serif;
+        margin: 1em;
+      }
+      .demo {
+        font-size: 3em;
+        text-align: center;
+      }
+      th, td {
+        border: 1px solid;
+        padding: 1vw;
+      }
+      .nope {
+        opacity: .5;
+        text-align: center;
+      }
+      table {
+        border-collapse: collapse;
+        margin: 1em 0;
+      }
+
+
+
+    title Geometric Shapes Demo
+
+  mixin nope
+    td.nope 
+
+  body
+    table
+      thead
+        th Demo
+        th Description  
+      each glyph in glyphs
+        tr
+          td.demo= glyph[1]
+          td= glyph[0]
+
+
+  table
+    thead
+      tr
+        th Orientation
+        th(colspan="16") …
+        th(colspan="2") HORIZONTAL…
+      tr
+        th Color
+        th BLACK…
+        th WHITE…
+        th BLACK…
+        th WHITE…
+        th BLACK…
+        th WHITE…
+        th BLACK…
+        th WHITE…
+        th BLACK…
+        th WHITE…
+        th BLACK…
+        th WHITE…
+        th BLACK…
+        th WHITE…
+        th BLACK…
+        th WHITE…
+        th …BLACK…
+        th …WHITE…
+      tr
+        th Direction
+        th(colspan="6") …
+        th(colspan="2") …UP-POINTING…
+        th(colspan="2") …DOWN-POINTING…
+        th(colspan="2") …LEFT-POINTING…
+        th(colspan="2") …RIGHT-POINTING…
+        th(colspan="4") …
+    tbody
+      tr
+        th …VERY SMALL…
+        td.demo ⬝
+        td.demo ⬞
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+      tr
+        th …SMALL…
+        td.demo ▪
+        td.demo ▫
+        +nope
+        +nope
+        +nope
+        +nope
+        td.demo ▴
+        td.demo ▵
+        td.demo ▾
+        td.demo ▿
+        td.demo ◂
+        td.demo ◃
+        td.demo ►
+        td.demo ▻
+        +nope
+        +nope
+        +nope
+        +nope
+      tr
+        th …MEDIUM SMALL…
+        td.demo ◾
+        td.demo ◽
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+      tr
+        th …SLIGHTLY SMALL…
+        +nope
+        +nope
+        td.demo 🞄
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+      tr
+        th …MEDIUM…
+        td.demo ◼
+        td.demo ◻
+        td.demo ⚫
+        +nope
+        td.demo ⬥
+        td.demo ⬦
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+      tr
+        th …
+        td.demo ■
+        td.demo □
+        td.demo ●
+        td.demo ○
+        td.demo ◆
+        td.demo ◇
+        td.demo ▲
+        td.demo △
+        td.demo ▼
+        td.demo ▽
+        td.demo ◀
+        td.demo ◁
+        td.demo ▶
+        td.demo ▷
+        td.demo ⬢
+        td.demo ⬡
+        td.demo ⬣
+        +nope
+      tr
+        th …LARGE…
+        td.demo ⬛
+        td.demo ⬜
+        td.demo ⬤
+        td.demo ◯
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+        +nope
+    tfood
+      tr
+        th Shape
+        th(colspan="2") …SQUARE
+        th(colspan="2") …CIRCLE
+        th(colspan="2") …DIAMOND
+        th(colspan="8") …TRIANGLE
+        th(colspan="8") …HEXAGON
+  table
+    caption Shapes by the amount of corners
+    thead
+      tr
+        th Style
+        th 3
+        th 4
+        th 5
+        th 6
+        th 7
+        th 8
+        th ∞
+    tbody
+      tr
+        th Black
+        td.demo ▲
+        td.demo ■
+        td.demo ⬟
+        td.demo ⬢
+        +nope
+        td.demo ⯄
+        td.demo ●
+      tr
+        th White
+        td.demo △
+        td.demo □
+        td.demo ⬠
+        td.demo ⬡
+        +nope
+        td.demo ⯄
+        td.demo ○
+      tr
+        th Dotted
+        +nope
+        td.demo ⬚
+        +nope
+        +nope
+        +nope
+        +nope
+        td.demo ◌
+  dl
+    dt Circlish
+    dd ⛔ ☯ ⭙ ◴ ◕ ◓ ◎ ◍ ◌ ○ ◉

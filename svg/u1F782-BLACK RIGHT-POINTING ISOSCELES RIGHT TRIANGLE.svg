@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u1F782-BLACK RIGHT-POINTING ISOSCELES RIGHT TRIANGLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -5100 -1300)" figma:type="canvas">
+<g id="u1F782-BLACK RIGHT-POINTING ISOSCELES RIGHT TRIANGLE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 104 26L 112 26L 112 38L 104 38L 104 26Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(102.343 26.3431)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 11.3137 5.65685L 5.65685 0L 0 5.65685L 11.3137 5.65685Z"/>
+</defs>
+</svg>

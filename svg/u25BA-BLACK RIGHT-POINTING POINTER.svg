@@ -1,0 +1,15 @@
+<svg width="500" height="600" viewBox="0 0 500 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25BA-BLACK RIGHT-POINTING POINTER</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -650 -6550)" figma:type="canvas">
+<g id="u25BA-BLACK RIGHT-POINTING POINTER" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 13 131L 22 131L 22 143L 13 143L 13 131Z" fill="#FFFFFF"/>
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(13 132.381)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 9.24 4.6188L 0 9.23761L 0 0L 9.24 4.6188Z"/>
+</defs>
+</svg>

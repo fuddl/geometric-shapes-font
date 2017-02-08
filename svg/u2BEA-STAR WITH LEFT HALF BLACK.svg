@@ -1,0 +1,15 @@
+<svg width="650" height="600" viewBox="0 0 650 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2BEA-STAR WITH LEFT HALF BLACK</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -6900 -8000)" figma:type="canvas">
+<g id="u2BEA-STAR WITH LEFT HALF BLACK" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 138 160L 151 160L 151 172L 138 172L 138 160Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 151 160)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 7.02727 1.57504L 8.03444 4.58359L 11.2648 4.58359L 13 4.58359L 11.5819 5.58359L 8.98277 7.41641L 9.981 10.3983L 10.5172 12L 9.1368 11.0266L 6.5 9.16719L 3.8632 11.0266L 2.48277 12L 3.019 10.3983L 4.01723 7.41641L 1.41811 5.58359L 0 4.58359L 1.73523 4.58359L 4.96556 4.58359L 5.97273 1.57504L 6.5 0L 7.02727 1.57504ZM 6.5 3.15009L 5.91383 4.90105L 5.68533 5.58359L 4.96556 5.58359L 3.15334 5.58359L 4.59352 6.59917L 5.20177 7.02809L 4.9655 7.73386L 4.39941 9.42482L 5.92371 8.34995L 6.5 7.94356L 6.5 3.15009ZM 8.59128 9.41826L 8.60059 9.42482L 8.59889 9.41978L 8.59128 9.41826Z"/>
+</defs>
+</svg>

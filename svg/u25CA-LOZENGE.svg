@@ -1,0 +1,15 @@
+<svg width="400" height="600" viewBox="0 0 400 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25CA-LOZENGE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -1400 -6550)" figma:type="canvas">
+<g id="u25CA-LOZENGE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 28 131L 36 131L 36 143L 28 143L 28 131Z" fill="#FFFFFF"/>
+<g id="Rectangle 10" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(29.175 131.343)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 2.8275 0L 5.655 5.65685L 2.8275 11.3137L 0 5.65685L 2.8275 0Z"/>
+</defs>
+</svg>

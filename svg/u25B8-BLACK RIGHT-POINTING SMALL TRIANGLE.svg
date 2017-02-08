@@ -1,0 +1,15 @@
+<svg width="400" height="600" viewBox="0 0 400 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25B8-BLACK RIGHT-POINTING SMALL TRIANGLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -650 -5250)" figma:type="canvas">
+<g id="u25B8-BLACK RIGHT-POINTING SMALL TRIANGLE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 13 105L 21 105L 21 117L 13 117L 13 105Z" fill="#FFFFFF"/>
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 21 106.381)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 4.6188 0L 9.23761 8L 3.42647e-09 8L 4.6188 0Z"/>
+</defs>
+</svg>

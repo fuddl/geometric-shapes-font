@@ -1,0 +1,15 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25E1-LOWER HALF CIRCLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -2600 -650)" figma:type="canvas">
+<g id="u25E1-LOWER HALF CIRCLE" style="mix-blend-mode:normal;isolation:isolate;" figma:type="frame">
+<path d="M 52 13L 76 13L 76 25L 52 25L 52 13Z" fill="#FFFFFF"/>
+<g id="Intersect" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="matrix(1.54628e-17 -1 1 1.54628e-17 52 25)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 12C -9.14103e-16 5.37258 5.37259 9.14102e-16 12 0L 12 1C 5.92487 1 1 5.92487 1 12C 1 18.0751 5.92487 23 12 23L 12 24C 5.37259 24 9.14103e-16 18.6274 0 12Z"/>
+</defs>
+</svg>

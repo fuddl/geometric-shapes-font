@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25D9-INVERSE WHITE CIRCLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -2050 -5900)" figma:type="canvas">
+<g id="u25D9-INVERSE WHITE CIRCLE" style="mix-blend-mode:normal;isolation:isolate;" figma:type="frame">
+<path d="M 41 118L 53 118L 53 130L 41 130L 41 118Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(41 118)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6 0L 0 0L 0 6L 0 12L 6 12L 12 12L 12 6L 12 0L 6 0ZM 6 0C 9.31371 0 12 2.68629 12 6C 12 9.31371 9.31371 12 6 12C 2.68629 12 0 9.31371 0 6C 0 2.68629 2.68629 0 6 0Z"/>
+</defs>
+</svg>

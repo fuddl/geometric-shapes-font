@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25CB-WHITE CIRCLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -1400 -7200)" figma:type="canvas">
+<g id="u25CB-WHITE CIRCLE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 28 144L 40 144L 40 156L 28 156L 28 144Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(28 144)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6 12C 9.31371 12 12 9.31371 12 6C 12 2.68629 9.31371 0 6 0C 2.68629 0 0 2.68629 0 6C 0 9.31371 2.68629 12 6 12ZM 6 11C 8.76143 11 11 8.76143 11 6C 11 3.23857 8.76143 1 6 1C 3.23858 1 1 3.23857 1 6C 1 8.76143 3.23858 11 6 11Z"/>
+</defs>
+</svg>

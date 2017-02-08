@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2BCB-BOTTOM HALF BLACK CIRCLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -6900 -4350)" figma:type="canvas">
+<g id="u2BCB-BOTTOM HALF BLACK CIRCLE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 138 87L 150 87L 150 99L 138 99L 138 87Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(138 93)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6 6C 9.31371 6 12 3.31371 12 0L 0 0C 0 3.31371 2.68629 6 6 6Z"/>
+</defs>
+</svg>

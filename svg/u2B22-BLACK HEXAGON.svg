@@ -1,0 +1,15 @@
+<svg width="550" height="600" viewBox="0 0 550 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2B22-BLACK HEXAGON</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -7750 0)" figma:type="canvas">
+<g id="u2B22-BLACK HEXAGON" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 155 -1.5339e-15L 165.39 -1.5339e-15L 165.39 12L 155 12L 155 -1.5339e-15Z" fill="#FFFFFF"/>
+<g id="Polygon 2" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(155 -1.5339e-15)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 5.19615 0L 10.3923 3L 10.3923 9L 5.19615 12L 0 9L 0 3L 5.19615 0Z"/>
+</defs>
+</svg>

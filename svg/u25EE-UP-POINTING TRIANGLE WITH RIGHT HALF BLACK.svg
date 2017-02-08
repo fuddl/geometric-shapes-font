@@ -1,0 +1,15 @@
+<svg width="700" height="600" viewBox="0 0 700 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25EE-UP-POINTING TRIANGLE WITH RIGHT HALF BLACK</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -2700 -9150)" figma:type="canvas">
+<g id="u25EE-UP-POINTING TRIANGLE WITH RIGHT HALF BLACK" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 54 183L 67.86 183L 67.86 195L 54 195L 54 183Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 67.8564 183)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 13.8564 12L 6.9282 0L 0 12L 13.8564 12ZM 6.94615 2L 6.95 2.00667L 6.95 11L 1.75 11L 6.94615 2Z"/>
+</defs>
+</svg>

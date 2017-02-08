@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25DD-UPPER RIGHT QUADRANT CIRCULAR ARC</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -2050 -8500)" figma:type="canvas">
+<g id="u25DD-UPPER RIGHT QUADRANT CIRCULAR ARC" style="mix-blend-mode:normal;isolation:isolate;" figma:type="frame">
+<path d="M 41 170L 53 170L 53 182L 41 182L 41 170Z" fill="#FFFFFF"/>
+<g id="Intersect" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 53 170)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 12 0C 5.37258 0 0 5.37259 0 12L 1 12C 1 5.92487 5.92487 1 12 1L 12 0Z"/>
+</defs>
+</svg>

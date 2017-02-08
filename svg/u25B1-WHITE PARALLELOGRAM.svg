@@ -1,0 +1,15 @@
+<svg width="650" height="600" viewBox="0 0 650 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25B1-WHITE PARALLELOGRAM</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -650 -650)" figma:type="canvas">
+<g id="u25B1-WHITE PARALLELOGRAM" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 13.0711 13L 25.0711 13L 25.0711 25L 13.0711 25L 13.0711 13Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(13.0711 13)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 8 12L 12 0L 4 0L 0 12L 8 12ZM 10.4289 1L 4.92893 1L 1.42893 11L 6.92893 11L 10.4289 1Z"/>
+</defs>
+</svg>

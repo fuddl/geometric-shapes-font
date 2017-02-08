@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25A2-WHITE SQUARE WITH ROUNDED CORNERS</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 0 -1300)" figma:type="canvas">
+<g id="u25A2-WHITE SQUARE WITH ROUNDED CORNERS" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 0 26L 12 26L 12 38L 0 38L 0 26Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(0 26)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 10 0C 11.1046 0 12 0.89543 12 2L 12 10C 12 11.1046 11.1046 12 10 12L 2 12C 0.895431 12 0 11.1046 0 10L 0 2C 0 0.89543 0.895431 0 2 0L 10 0ZM 2 1C 1.44772 1 1 1.44772 1 2L 1 10C 1 10.5523 1.44772 11 2 11L 10 11C 10.5523 11 11 10.5523 11 10L 11 2C 11 1.44772 10.5523 1 10 1L 2 1Z"/>
+</defs>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u26F6-SQUARE FOUR CORNERS</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -8700 -4600)" figma:type="canvas">
+<g id="u26F6-SQUARE FOUR CORNERS" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 174 92L 186 92L 186 104L 174 104L 174 92Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(174 92)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 10 0L 12 0L 12 2L 11 2L 11 1L 10 1L 10 0ZM 2 0L 0 0L 0 2L 1 2L 1 1L 2 1L 2 0ZM 1 10L 0 10L 0 12L 2 12L 2 11L 1 11L 1 10ZM 10 11L 10 12L 12 12L 12 10L 11 10L 11 11L 10 11Z"/>
+</defs>
+</svg>

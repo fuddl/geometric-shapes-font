@@ -1,0 +1,15 @@
+<svg width="650" height="600" viewBox="0 0 650 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2B20-WHITE PENTAGON</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -7700 -7550)" figma:type="canvas">
+<g id="u2B20-WHITE PENTAGON" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 155 151L 165.39 151L 165.39 163L 155 163L 155 151Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(154 151)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 12.6176 4.58359L 6.30878 0L 0 4.58359L 2.40974 12L 10.2078 12L 12.6176 4.58359ZM 11.5146 4.81966L 6.25731 1L 1 4.81966L 3.00812 11L 9.50652 11L 11.5146 4.81966Z"/>
+</defs>
+</svg>

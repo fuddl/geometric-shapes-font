@@ -1,0 +1,15 @@
+<svg width="300" height="600" viewBox="0 0 300 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25AB-WHITE SMALL SQUARE&#9;</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 0 -7200)" figma:type="canvas">
+<g id="u25AB-WHITE SMALL SQUARE&#9;" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 0 144L 6 144L 6 156L 0 156L 0 144Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(-1.15463e-14 146)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6 0L 0 0L 0 6L 6 6L 6 0ZM 5 1L 1 1L 1 5L 5 5L 5 1Z"/>
+</defs>
+</svg>

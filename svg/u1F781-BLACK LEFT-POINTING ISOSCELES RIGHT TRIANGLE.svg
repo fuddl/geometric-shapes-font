@@ -1,0 +1,15 @@
+<svg width="300" height="600" viewBox="0 0 300 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u1F781-BLACK LEFT-POINTING ISOSCELES RIGHT TRIANGLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -5250 -650)" figma:type="canvas">
+<g id="u1F781-BLACK LEFT-POINTING ISOSCELES RIGHT TRIANGLE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 105 13L 111 13L 111 25L 105 25L 105 13Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(105 13.3431)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 5.65685 5.65685L 0 11.3137L 0 0Z"/>
+</defs>
+</svg>

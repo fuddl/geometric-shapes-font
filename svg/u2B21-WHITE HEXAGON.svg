@@ -1,0 +1,15 @@
+<svg width="550" height="600" viewBox="0 0 550 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2B21-WHITE HEXAGON</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -7750 -650)" figma:type="canvas">
+<g id="u2B21-WHITE HEXAGON" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 155 13L 165.39 13L 165.39 25L 155 25L 155 13Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(155 13)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 10.3923 3L 5.19615 0L 0 3L 0 9L 5.19615 12L 10.3923 9L 10.3923 3ZM 9.52628 3.5L 5.19615 1L 0.866028 3.5L 0.866028 8.5L 5.19615 11L 9.52628 8.5L 9.52628 3.5Z"/>
+</defs>
+</svg>

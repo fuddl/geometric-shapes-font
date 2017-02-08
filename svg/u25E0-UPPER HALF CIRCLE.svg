@@ -1,0 +1,15 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25E0-UPPER HALF CIRCLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -2600 0)" figma:type="canvas">
+<g id="u25E0-UPPER HALF CIRCLE" style="mix-blend-mode:normal;isolation:isolate;" figma:type="frame">
+<path d="M 52 0L 76 0L 76 12L 52 12L 52 0Z" fill="#FFFFFF"/>
+<g id="Intersect" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="matrix(-1.37927e-16 1 -1 -1.37927e-16 76 1.77636e-15)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M -1.21227e-16 12C -1.03533e-15 5.37258 5.37259 9.14102e-16 12 0L 12 1C 5.92487 1 1 5.92487 1 12C 1 18.0751 5.92487 23 12 23L 12 24C 5.37259 24 7.92876e-16 18.6274 -1.21227e-16 12Z"/>
+</defs>
+</svg>

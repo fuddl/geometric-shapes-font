@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25A5-SQUARE WITH VERTICAL FILL</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 0 -3250)" figma:type="canvas">
+<g id="u25A5-SQUARE WITH VERTICAL FILL" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M -3.55271e-15 65L 12 65L 12 77L -3.55271e-15 77L -3.55271e-15 65Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="matrix(-1.83697e-16 -1 1 -1.83697e-16 -3.55271e-15 77)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 12 0L 12 12L 0 12L 0 0ZM 1 1L 11 1L 11 11L 1 11L 1 1ZM 1.75 1.75L 10.25 1.75L 10.25 2.25L 1.75 2.25L 1.75 1.75ZM 10.25 2.75L 1.75 2.75L 1.75 3.25L 10.25 3.25L 10.25 2.75ZM 1.75 3.75L 10.25 3.75L 10.25 4.25L 1.75 4.25L 1.75 3.75ZM 10.25 4.75L 1.75 4.75L 1.75 5.25L 10.25 5.25L 10.25 4.75ZM 1.75 5.75L 10.25 5.75L 10.25 6.25L 1.75 6.25L 1.75 5.75ZM 10.25 6.75L 1.75 6.75L 1.75 7.25L 10.25 7.25L 10.25 6.75ZM 1.75 7.75L 10.25 7.75L 10.25 8.25L 1.75 8.25L 1.75 7.75ZM 10.25 8.75L 1.75 8.75L 1.75 9.25L 10.25 9.25L 10.25 8.75ZM 10.25 9.75L 1.75 9.75L 1.75 10.25L 10.25 10.25L 10.25 9.75Z"/>
+</defs>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2B59-HEAVY CIRCLED SALTIRE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -6900 -2700)" figma:type="canvas">
+<g id="u2B59-HEAVY CIRCLED SALTIRE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 138 54L 150 54L 150 66L 138 66L 138 54Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(138 54)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6 0C 9.31371 0 12 2.68629 12 6C 12 9.31371 9.31371 12 6 12C 2.68629 12 0 9.31371 0 6C 0 2.68629 2.68629 0 6 0ZM 8.03197 9.44618C 7.43645 9.79807 6.74181 10 6 10C 5.25819 10 4.56355 9.79807 3.96803 9.44618L 6 7.41422L 8.03197 9.44618ZM 9.44618 8.03196C 9.79807 7.43645 10 6.74181 10 6C 10 5.25819 9.79807 4.56355 9.44618 3.96804L 7.41422 6L 9.44618 8.03196ZM 8.03197 2.55382L 6 4.58578L 3.96803 2.55382C 4.56355 2.20193 5.25819 2 6 2C 6.74181 2 7.43645 2.20193 8.03197 2.55382ZM 2.55382 3.96804C 2.20193 4.56355 2 5.25819 2 6C 2 6.74181 2.20193 7.43645 2.55382 8.03196L 4.58578 6L 2.55382 3.96804Z"/>
+</defs>
+</svg>

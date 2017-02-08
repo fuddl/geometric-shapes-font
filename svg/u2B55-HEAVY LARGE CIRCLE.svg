@@ -1,0 +1,15 @@
+<svg width="700" height="700" viewBox="0 0 700 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2B55-HEAVY LARGE CIRCLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -7000 -1900)" figma:type="canvas">
+<g id="u2B55-HEAVY LARGE CIRCLE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 140 39L 154 39L 154 51L 140 51L 140 39Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(140 38)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 7 14C 10.866 14 14 10.866 14 7C 14 3.13401 10.866 0 7 0C 3.134 0 0 3.13401 0 7C 0 10.866 3.134 14 7 14ZM 7 12C 9.76143 12 12 9.76143 12 7C 12 4.23857 9.76143 2 7 2C 4.23857 2 2 4.23857 2 7C 2 9.76143 4.23857 12 7 12Z"/>
+</defs>
+</svg>

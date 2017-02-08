@@ -1,0 +1,15 @@
+<svg width="650" height="600" viewBox="0 0 650 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2605-BLACK STAR</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -6900 -5800)" figma:type="canvas">
+<g id="u2605-BLACK STAR" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 138 116L 151 116L 151 128L 138 128L 138 116Z" fill="#FFFFFF"/>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(138 116)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 6.5 0L 8.03444 4.58359L 13 4.58359L 8.98278 7.41641L 10.5172 12L 6.5 9.16718L 2.48278 12L 4.01722 7.41641L 0 4.58359L 4.96556 4.58359L 6.5 0Z"/>
+</defs>
+</svg>

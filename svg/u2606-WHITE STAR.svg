@@ -1,0 +1,15 @@
+<svg width="650" height="600" viewBox="0 0 650 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2606-WHITE STAR</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -6900 -5100)" figma:type="canvas">
+<g id="u2606-WHITE STAR" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 138 102L 151 102L 151 114L 138 114L 138 102Z" fill="#FFFFFF"/>
+<g id="Star (Stroke)" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(138 102)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 8.03444 4.58359L 7.02727 1.57504L 6.5 0L 5.97273 1.57504L 4.96556 4.58359L 1.73523 4.58359L 0 4.58359L 1.4181 5.58359L 4.01722 7.41641L 3.01899 10.3983L 2.48278 12L 3.8632 11.0266L 6.5 9.16718L 9.1368 11.0266L 10.5172 12L 9.98101 10.3983L 8.98278 7.41641L 11.5819 5.58359L 13 4.58359L 11.2648 4.58359L 8.03444 4.58359ZM 9.84667 5.58359L 8.03444 5.58359L 7.31466 5.58359L 7.08617 4.90104L 6.5 3.15008L 5.91383 4.90104L 5.68534 5.58359L 4.96556 5.58359L 3.15333 5.58359L 4.59351 6.59916L 5.20177 7.02808L 4.9655 7.73386L 4.39941 9.42482L 5.92371 8.34994L 6.5 7.94356L 7.07629 8.34994L 8.60059 9.42482L 8.0345 7.73386L 7.79823 7.02808L 8.40649 6.59916L 9.84667 5.58359Z"/>
+</defs>
+</svg>

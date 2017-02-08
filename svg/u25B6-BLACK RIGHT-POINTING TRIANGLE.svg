@@ -1,0 +1,15 @@
+<svg width="600" height="700" viewBox="0 0 600 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25B6-BLACK RIGHT-POINTING TRIANGLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -650 -3850)" figma:type="canvas">
+<g id="u25B6-BLACK RIGHT-POINTING TRIANGLE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 13 78L 25 78L 25 90L 13 90L 13 78Z" fill="#FFFFFF"/>
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="matrix(5.55112e-17 1 -1 5.55112e-17 25 77)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 6.9282 0L 13.8564 12L 5.1397e-09 12L 6.9282 0Z"/>
+</defs>
+</svg>

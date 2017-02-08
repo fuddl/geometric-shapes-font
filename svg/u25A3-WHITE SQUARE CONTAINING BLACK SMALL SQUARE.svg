@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25A3-WHITE SQUARE CONTAINING BLACK SMALL SQUARE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 0 -1950)" figma:type="canvas">
+<g id="u25A3-WHITE SQUARE CONTAINING BLACK SMALL SQUARE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 0 39L 12 39L 12 51L 0 51L 0 39Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(0 39)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 12 0L 12 12L 0 12L 0 0ZM 1 1L 11 1L 11 11L 1 11L 1 1ZM 9 3L 3 3L 3 9L 9 9L 9 3Z"/>
+</defs>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="500" height="600" viewBox="0 0 500 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25C5-WHITE LEFT-POINTING POINTER</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -1400 -3250)" figma:type="canvas">
+<g id="u25C5-WHITE LEFT-POINTING POINTER" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 28 65L 37 65L 37 77L 28 77L 28 65Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 37.24 66.38)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 9.23761L 9.24 4.6188L 0 0L 0 9.23761ZM 0.999062 7.73338L 7.23906 4.61418L 0.999062 1.495L 0.999062 7.73338Z"/>
+</defs>
+</svg>

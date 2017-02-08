@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2BC3-HORIZONTAL BLACK OCTAGON</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -7750 -8250)" figma:type="canvas">
+<g id="u2BC3-HORIZONTAL BLACK OCTAGON" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 155 165L 167 165L 167 177L 155 177L 155 165Z" fill="#FFFFFF"/>
+<g id="Polygon 4" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(155 165)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 3.51472 0L 8.48528 7.58817e-09L 12 3.51472L 12 8.48528L 8.48528 12L 3.51472 12L 9.1168e-08 8.48528L 0 3.51472L 3.51472 0Z"/>
+</defs>
+</svg>

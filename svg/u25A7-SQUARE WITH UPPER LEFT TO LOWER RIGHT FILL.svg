@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25A7-SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 0 -4600)" figma:type="canvas">
+<g id="u25A7-SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M -5.32907e-15 92L 12 92L 12 104L -5.32907e-15 104L -5.32907e-15 92Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(0 92)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 12L 0 0L 12 0L 12 12L 0 12ZM 1 11L 1 1L 11 1L 11 11L 1 11ZM 8.11092 2L 7.40381 2L 10 4.59619L 10 3.88908L 8.11092 2ZM 6.6967 2L 5.98959 2L 10 6.01041L 10 5.3033L 6.6967 2ZM 5.28249 2L 4.57539 2L 10 7.42461L 10 6.71751L 5.28249 2ZM 3.86828 2L 3.16117 2L 10 8.83883L 10 8.13172L 3.86828 2ZM 2 2L 2 2.25304L 9.74696 10L 10 10L 10 9.54594L 2.45406 2L 2 2ZM 2 2.96015L 2 3.66726L 8.33274 10L 9.03985 10L 2 2.96015ZM 2 4.37437L 2 5.08147L 6.91853 10L 7.62563 10L 2 4.37437ZM 2 5.78858L 2 6.49569L 5.50431 10L 6.21142 10L 2 5.78858ZM 2 7.20279L 2 7.9099L 4.0901 10L 4.7972 10L 2 7.20279ZM 2 8.617L 2 9.32411L 2.67589 10L 3.38299 10L 2 8.617ZM 8.81802 2L 10 3.18198L 10 2.47488L 9.52512 2L 8.81802 2Z"/>
+</defs>
+</svg>

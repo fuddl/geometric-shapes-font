@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u2685-DIE FACE-6</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -7750 -10550)" figma:type="canvas">
+<g id="u2685-DIE FACE-6" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 155 211L 167 211L 167 223L 155 223L 155 211Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(155 211)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 12 0L 12 12L 0 12L 0 0ZM 1 1L 11 1L 11 11L 1 11L 1 1ZM 4 3C 4 3.55229 3.55229 4 3 4C 2.44771 4 2 3.55229 2 3C 2 2.44771 2.44771 2 3 2C 3.55229 2 4 2.44771 4 3ZM 4 9C 4 9.55229 3.55229 10 3 10C 2.44771 10 2 9.55229 2 9C 2 8.44771 2.44771 8 3 8C 3.55229 8 4 8.44771 4 9ZM 3 7C 3.55229 7 4 6.55229 4 6C 4 5.44771 3.55229 5 3 5C 2.44771 5 2 5.44771 2 6C 2 6.55229 2.44771 7 3 7ZM 10 3C 10 3.55229 9.55229 4 9 4C 8.44771 4 8 3.55229 8 3C 8 2.44771 8.44771 2 9 2C 9.55229 2 10 2.44771 10 3ZM 9 7C 9.55229 7 10 6.55229 10 6C 10 5.44771 9.55229 5 9 5C 8.44771 5 8 5.44771 8 6C 8 6.55229 8.44771 7 9 7ZM 10 9C 10 9.55229 9.55229 10 9 10C 8.44771 10 8 9.55229 8 9C 8 8.44771 8.44771 8 9 8C 9.55229 8 10 8.44771 10 9Z"/>
+</defs>
+</svg>

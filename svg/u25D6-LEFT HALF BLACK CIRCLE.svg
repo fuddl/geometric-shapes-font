@@ -1,0 +1,15 @@
+<svg width="300" height="600" viewBox="0 0 300 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25D6-LEFT HALF BLACK CIRCLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(50 0 0 50 -1950 -3900)" figma:type="canvas">
+<g id="u25D6-LEFT HALF BLACK CIRCLE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 39 78L 45 78L 45 90L 39 90L 39 78Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(39 78)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6 12L 6 0C 2.68629 0 0 2.68629 0 6C 0 9.31371 2.68629 12 6 12Z"/>
+</defs>
+</svg>

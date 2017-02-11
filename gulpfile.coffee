@@ -95,6 +95,7 @@ gulp.task 'build', ->
 
 gulp.task 'watch', ['build'], ->
   gulp.watch 'svg/*.svg', ['build']
+  gulp.watch 'demo.pug', ['build']
 
 # Default task call every tasks created so far.
 gulp.task 'default', ['watch']

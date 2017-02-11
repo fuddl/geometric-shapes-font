@@ -11,6 +11,7 @@ html
       body {
         font-family: 'Geometric Shapes', sans-serif;
         margin: 1em;
+        font-size: 1.4em;
       }
       .demo {
         font-size: 3em;
@@ -27,249 +28,347 @@ html
       table {
         border-collapse: collapse;
         margin: 1em 0;
+        width: 100%;
+      }
+      tbody th:first-child {
+        text-align: right;
+      }
+      td {
+        text-align: center;
+      }
+      .glyph-list > figure {
+        font-size: 10vw;
+        text-align: center;
+        width: 20vw;
+        margin: 0;
+        padding: 0;
+      }
+      .glyph-list figcaption {
+        font-size: .5rem;
+      }
+      .glyph-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+      }
+      .reserved {
+        background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='8' height='8'><path fill='#fff' d='M0 0h8v8h-8z'/><path d='M0 0l8 8zm8 0l-8 8z' stroke-width='.5' stroke='#aaa'/></svg>");
+        background-repeat: repeat;
       }
 
 
 
     title Geometric Shapes Demo
 
-  mixin nope
-    td.nope 
-
   body
+
+
     table
+      caption Geometric Shapes
       thead
-        th Demo
-        th Description  
-      each glyph in glyphs
         tr
-          td.demo= glyph[1]
-          td= glyph[0]
+          th(width="20%")  
+          th(width="5%") 0
+          th(width="5%") 1
+          th(width="5%") 2
+          th(width="5%") 3
+          th(width="5%") 4
+          th(width="5%") 5
+          th(width="5%") 6
+          th(width="5%") 7
+          th(width="5%") 8
+          th(width="5%") 9
+          th(width="5%") A
+          th(width="5%") B
+          th(width="5%") C
+          th(width="5%") D
+          th(width="5%") E
+          th(width="5%") F
+      tbody
+        tr
+          th U+25Ax
+          td(title='U+25A0: BLACK SQUARE') ■
+          td(title='U+25A1: WHITE SQUARE') □
+          td(title='U+25A2: WHITE SQUARE WITH ROUNDED CORNERS') ▢
+          td(title='U+25A3: WHITE SQUARE CONTAINING BLACK SMALL SQUARE') ▣
+          td(title='U+25A4: SQUARE WITH HORIZONTAL FILL') ▤
+          td(title='U+25A5: SQUARE WITH VERTICAL FILL') ▥
+          td(title='U+25A6: SQUARE WITH ORTHOGONAL CROSSHATCH FILL') ▦
+          td(title='U+25A7: SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL') ▧
+          td(title='U+25A8: SQUARE WITH UPPER RIGHT TO LOWER LEFT FILL') ▨
+          td(title='U+25A9: SQUARE WITH DIAGONAL CROSSHATCH FILL') ▩
+          td(title='U+25AA: BLACK SMALL SQUARE') ▪
+          td(title='U+25AB: WHITE SMALL SQUARE') ▫
+          td(title='U+25AC: BLACK RECTANGLE') ▬
+          td(title='U+25AD: WHITE RECTANGLE') ▭
+          td(title='U+25AE: BLACK VERTICAL RECTANGLE') ▮
+          td(title='U+25AF: WHITE VERTICAL RECTANGLE') ▯
+        tr
+          th U+25Bx
+          td(title='U+25B0: BLACK PARALLELOGRAM') ▰
+          td(title='U+25B1: WHITE PARALLELOGRAM') ▱
+          td(title='U+25B2: BLACK UP-POINTING TRIANGLE') ▲
+          td(title='U+25B3: WHITE UP-POINTING TRIANGLE') △
+          td(title='U+25B4: BLACK UP-POINTING SMALL TRIANGLE') ▴
+          td(title='U+25B5: WHITE UP-POINTING SMALL TRIANGLE') ▵
+          td(title='U+25B6: BLACK RIGHT-POINTING TRIANGLE') ▶
+          td(title='U+25B7: WHITE RIGHT-POINTING TRIANGLE') ▷
+          td(title='U+25B8: BLACK RIGHT-POINTING SMALL TRIANGLE') ▸
+          td(title='U+25B9: WHITE RIGHT-POINTING SMALL TRIANGLE') ▹
+          td(title='U+25BA: BLACK RIGHT-POINTING POINTER') ►
+          td(title='U+25BB: WHITE RIGHT-POINTING POINTER') ▻
+          td(title='U+25BC: BLACK DOWN-POINTING TRIANGLE') ▼
+          td(title='U+25BD: WHITE DOWN-POINTING TRIANGLE') ▽
+          td(title='U+25BE: BLACK DOWN-POINTING SMALL TRIANGLE') ▾
+          td(title='U+25BF: WHITE DOWN-POINTING SMALL TRIANGLE') ▿
+        tr
+          th U+25Cx
+          td(title='U+25C0: BLACK LEFT-POINTING TRIANGLE') ◀
+          td(title='U+25C1: WHITE LEFT-POINTING TRIANGLE') ◁
+          td(title='U+25C2: BLACK LEFT-POINTING SMALL TRIANGLE') ◂
+          td(title='U+25C3: WHITE LEFT-POINTING SMALL TRIANGLE') ◃
+          td(title='U+25C4: BLACK LEFT-POINTING POINTER') ◄
+          td(title='U+25C5: WHITE LEFT-POINTING POINTER') ◅
+          td(title='U+25C6: BLACK DIAMOND') ◆
+          td(title='U+25C7: WHITE DIAMOND') ◇
+          td(title='U+25C8: WHITE DIAMOND CONTAINING BLACK SMALL DIAMOND') ◈
+          td(title='U+25C9: FISHEYE') ◉
+          td(title='U+25CA: LOZENGE') ◊
+          td(title='U+25CB: WHITE CIRCLE') ○
+          td(title='U+25CC: DOTTED CIRCLE') ◌
+          td(title='U+25CD: CIRCLE WITH VERTICAL FILL') ◍
+          td(title='U+25CE: BULLSEYE') ◎
+          td(title='U+25CF: BLACK CIRCLE') ●
+        tr
+          th U+25Dx
+          td(title='U+25D0: CIRCLE WITH LEFT HALF BLACK') ◐
+          td(title='U+25D1: CIRCLE WITH RIGHT HALF BLACK') ◑
+          td(title='U+25D2: CIRCLE WITH LOWER HALF BLACK') ◒
+          td(title='U+25D3: CIRCLE WITH UPPER HALF BLACK') ◓
+          td(title='U+25D4: CIRCLE WITH UPPER RIGHT QUADRANT BLACK') ◔
+          td(title='U+25D5: CIRCLE WITH ALL BUT UPPER LEFT QUADRANT BLACK') ◕
+          td(title='U+25D6: LEFT HALF BLACK CIRCLE') ◖
+          td(title='U+25D7: RIGHT HALF BLACK CIRCLE') ◗
+          td(title='U+25D8: INVERSE BULLET') ◘
+          td(title='U+25D9: INVERSE WHITE CIRCLE') ◙
+          td(title='U+25DA: UPPER HALF INVERSE WHITE CIRCLE') ◚
+          td(title='U+25DB: LOWER HALF INVERSE WHITE CIRCLE') ◛
+          td(title='U+25DC: UPPER LEFT QUADRANT CIRCULAR ARC') ◜
+          td(title='U+25DD: UPPER RIGHT QUADRANT CIRCULAR ARC') ◝
+          td(title='U+25DE: LOWER RIGHT QUADRANT CIRCULAR ARC') ◞
+          td(title='U+25DF: LOWER LEFT QUADRANT CIRCULAR ARC') ◟
+        tr
+          th U+25Ex
+          td(title='U+25E0: UPPER HALF CIRCLE') ◠
+          td(title='U+25E1: LOWER HALF CIRCLE') ◡
+          td(title='U+25E2: BLACK LOWER RIGHT TRIANGLE') ◢
+          td(title='U+25E3: BLACK LOWER LEFT TRIANGLE') ◣
+          td(title='U+25E4: BLACK UPPER LEFT TRIANGLE') ◤
+          td(title='U+25E5: BLACK UPPER RIGHT TRIANGLE') ◥
+          td(title='U+25E6: WHITE BULLET') ◦
+          td(title='U+25E7: SQUARE WITH LEFT HALF BLACK') ◧
+          td(title='U+25E8: SQUARE WITH RIGHT HALF BLACK') ◨
+          td(title='U+25E9: SQUARE WITH UPPER LEFT DIAGONAL HALF BLACK') ◩
+          td(title='U+25EA: SQUARE WITH LOWER RIGHT DIAGONAL HALF BLACK') ◪
+          td(title='U+25EB: WHITE SQUARE WITH VERTICAL BISECTING LINE') ◫
+          td(title='U+25EC: WHITE UP-POINTING TRIANGLE WITH DOT') ◬
+          td(title='U+25ED: UP-POINTING TRIANGLE WITH LEFT HALF BLACK') ◭
+          td(title='U+25EE: UP-POINTING TRIANGLE WITH RIGHT HALF BLACK') ◮
+          td(title='U+25EF: LARGE CIRCLE') ◯
+        tr
+          th U+25Fx
+          td(title='U+25F0: WHITE SQUARE WITH UPPER LEFT QUADRANT') ◰
+          td(title='U+25F1: WHITE SQUARE WITH LOWER LEFT QUADRANT') ◱
+          td(title='U+25F2: WHITE SQUARE WITH LOWER RIGHT QUADRANT') ◲
+          td(title='U+25F3: WHITE SQUARE WITH UPPER RIGHT QUADRANT') ◳
+          td(title='U+25F4: WHITE CIRCLE WITH UPPER LEFT QUADRANT') ◴
+          td(title='U+25F5: WHITE CIRCLE WITH LOWER LEFT QUADRANT') ◵
+          td(title='U+25F6: WHITE CIRCLE WITH LOWER RIGHT QUADRANT') ◶
+          td(title='U+25F7: WHITE CIRCLE WITH UPPER RIGHT QUADRANT') ◷
+          td(title='U+25F8: UPPER LEFT TRIANGLE') ◸
+          td(title='U+25F9: UPPER RIGHT TRIANGLE') ◹
+          td(title='U+25FA: LOWER LEFT TRIANGLE') ◺
+          td(title='U+25FB: WHITE MEDIUM SQUARE') ◻
+          td(title='U+25FC: BLACK MEDIUM SQUARE') ◼
+          td(title='U+25FD: WHITE MEDIUM SMALL SQUARE') ◽
+          td(title='U+25FE: BLACK MEDIUM SMALL SQUARE') ◾
+          td(title='U+25FF: LOWER RIGHT TRIANGLE') ◿
+      
+    table
+      caption Geometric Shapes Extended
+      thead
+        tr
+          th(width="20%")  
+          th(width="5%") 0
+          th(width="5%") 1
+          th(width="5%") 2
+          th(width="5%") 3
+          th(width="5%") 4
+          th(width="5%") 5
+          th(width="5%") 6
+          th(width="5%") 7
+          th(width="5%") 8
+          th(width="5%") 9
+          th(width="5%") A
+          th(width="5%") B
+          th(width="5%") C
+          th(width="5%") D
+          th(width="5%") E
+          th(width="5%") F
+      tbody
+        tr
+          th U+1F78x
+          td(title='U+1F780: BLACK LEFT-POINTING ISOSCELES RIGHT TRIANGLE') 🞀
+          td(title='U+1F781: BLACK UP-POINTING ISOSCELES RIGHT TRIANGLE') 🞁
+          td(title='U+1F782: BLACK RIGHT-POINTING ISOSCELES RIGHT TRIANGLE') 🞂
+          td(title='U+1F783: BLACK DOWN-POINTING ISOSCELES RIGHT TRIANGLE') 🞃
+          td(title='U+1F784: BLACK SLIGHTLY SMALL CIRCLE') 🞄
+          td(title='U+1F785: MEDIUM BOLD WHITE CIRCLE') 🞅
+          td(title='U+1F786: BOLD WHITE CIRCLE') 🞆
+          td(title='U+1F787: HEAVY WHITE CIRCLE') 🞇
+          td(title='U+1F788: VERY HEAVY WHITE CIRCLE') 🞈
+          td(title='U+1F789: EXTREMELY HEAVY WHITE CIRCLE') 🞉
+          td(title='U+1F78A: WHITE CIRCLE CONTAINING BLACK SMALL CIRCLE') 🞊
+          td(title='U+1F78B: ROUND TARGET') 🞋
+          td(title='U+1F78C: BLACK TINY SQUARE') 🞌
+          td(title='U+1F78D: BLACK SLIGHTLY SMALL SQUARE') 🞍
+          td(title='U+1F78E: LIGHT WHITE SQUARE') 🞎
+          td(title='U+1F78F: MEDIUM WHITE SQUARE') 🞏
+        tr
+          th U+1F79x
+          td(title='U+1F790: BOLD WHITE SQUARE') 🞐
+          td(title='U+1F791: HEAVY WHITE SQUARE') 🞑
+          td(title='U+1F792: VERY HEAVY WHITE SQUARE') 🞒
+          td(title='U+1F793: EXTREMELY HEAVY WHITE SQUARE') 🞓
+          td(title='U+1F794: WHITE SQUARE CONTAINING BLACK VERY SMALL SQUARE') 🞔
+          td(title='U+1F795: WHITE SQUARE CONTAINING BLACK MEDIUM SQUARE') 🞕
+          td(title='U+1F796: SQUARE TARGET') 🞖
+          td(title='U+1F797: BLACK TINY DIAMOND') 🞗
+          td(title='U+1F798: BLACK VERY SMALL DIAMOND') 🞘
+          td(title='U+1F799: BLACK MEDIUM SMALL DIAMOND') 🞙
+          td(title='U+1F79A: WHITE DIAMOND CONTAINING BLACK VERY SMALL DIAMOND') 🞚
+          td(title='U+1F79B: WHITE DIAMOND CONTAINING BLACK MEDIUM DIAMOND') 🞛
+          td(title='U+1F79C: DIAMOND TARGET') 🞜
+          td(title='U+1F79D: BLACK TINY LOZENGE') 🞝
+          td(title='U+1F79E: BLACK VERY SMALL LOZENGE') 🞞
+          td(title='U+1F79F: BLACK MEDIUM SMALL LOZENGE') 🞟
+        tr
+          th U+1F7Ax
+          td(title='U+1F7A0: WHITE LOZENGE CONTAINING BLACK SMALL LOZENGE') 🞠
+          td(title='U+1F7A1: THIN GREEK CROSS') 🞡
+          td(title='U+1F7A2: LIGHT GREEK CROSS') 🞢
+          td(title='U+1F7A3: MEDIUM GREEK CROSS') 🞣
+          td(title='U+1F7A4: BOLD GREEK CROSS') 🞤
+          td(title='U+1F7A5: VERY BOLD GREEK CROSS') 🞥
+          td(title='U+1F7A6: VERY HEAVY GREEK CROSS') 🞦
+          td(title='U+1F7A7: EXTREMELY HEAVY GREEK CROSS') 🞧
+          td(title='U+1F7A8: THIN SALTIRE') 🞨
+          td(title='U+1F7A9: LIGHT SALTIRE') 🞩
+          td(title='U+1F7AA: MEDIUM SALTIRE') 🞪
+          td(title='U+1F7AB: BOLD SALTIRE') 🞫
+          td(title='U+1F7AC: HEAVY SALTIRE') 🞬
+          td(title='U+1F7AD: VERY HEAVY SALTIRE') 🞭
+          td(title='U+1F7AE: EXTREMELY HEAVY SALTIRE') 🞮
+          td(title='U+1F7AF: LIGHT FIVE SPOKED ASTERISK') 🞯
+        tr
+          th U+1F7Bx
+          td(title='U+1F7B0: MEDIUM FIVE SPOKED ASTERISK') 🞰
+          td(title='U+1F7B1: BOLD FIVE SPOKED ASTERISK') 🞱
+          td(title='U+1F7B2: HEAVY FIVE SPOKED ASTERISK') 🞲
+          td(title='U+1F7B3: VERY HEAVY FIVE SPOKED ASTERISK') 🞳
+          td(title='U+1F7B4: EXTREMELY HEAVY FIVE SPOKED ASTERISK') 🞴
+          td(title='U+1F7B5: LIGHT SIX SPOKED ASTERISK') 🞵
+          td(title='U+1F7B6: MEDIUM SIX SPOKED ASTERISK') 🞶
+          td(title='U+1F7B7: BOLD SIX SPOKED ASTERISK') 🞷
+          td(title='U+1F7B8: HEAVY SIX SPOKED ASTERISK') 🞸
+          td(title='U+1F7B9: VERY HEAVY SIX SPOKED ASTERISK') 🞹
+          td(title='U+1F7BA: EXTREMELY HEAVY SIX SPOKED ASTERISK') 🞺
+          td(title='U+1F7BB: LIGHT EIGHT SPOKED ASTERISK') 🞻
+          td(title='U+1F7BC: MEDIUM EIGHT SPOKED ASTERISK') 🞼
+          td(title='U+1F7BD: BOLD EIGHT SPOKED ASTERISK') 🞽
+          td(title='U+1F7BE: HEAVY EIGHT SPOKED ASTERISK') 🞾
+          td(title='U+1F7BF: VERY HEAVY EIGHT SPOKED ASTERISK') 🞿
+        tr
+          th U+1F7Cx
+          td(title='U+1F7C0: LIGHT THREE POINTED BLACK STAR') 🟀
+          td(title='U+1F7C1: MEDIUM THREE POINTED BLACK STAR') 🟁
+          td(title='U+1F7C2: THREE POINTED BLACK STAR') 🟂
+          td(title='U+1F7C3: MEDIUM THREE POINTED PINWHEEL STAR') 🟃
+          td(title='U+1F7C4: LIGHT FOUR POINTED BLACK STAR') 🟄
+          td(title='U+1F7C5: MEDIUM FOUR POINTED BLACK STAR') 🟅
+          td(title='U+1F7C6: FOUR POINTED BLACK STAR') 🟆
+          td(title='U+1F7C7: MEDIUM FOUR POINTED PINWHEEL STAR') 🟇
+          td(title='U+1F7C8: REVERSE LIGHT FOUR POINTED PINWHEEL STAR') 🟈
+          td(title='U+1F7C9: LIGHT FIVE POINTED BLACK STAR') 🟉
+          td(title='U+1F7CA: HEAVY FIVE POINTED BLACK STAR') 🟊
+          td(title='U+1F7CB: MEDIUM SIX POINTED BLACK STAR') 🟋
+          td(title='U+1F7CC: HEAVY SIX POINTED BLACK STAR') 🟌
+          td(title='U+1F7CD: SIX POINTED PINWHEEL STAR') 🟍
+          td(title='U+1F7CE: MEDIUM EIGHT POINTED BLACK STAR') 🟎
+          td(title='U+1F7CF: HEAVY EIGHT POINTED BLACK STAR') 🟏
+        tr
+          th U+1F7Dx
+          td(title='U+1F7D0: VERY HEAVY EIGHT POINTED BLACK STAR') 🟐
+          td(title='U+1F7D1: HEAVY EIGHT POINTED PINWHEEL STAR') 🟑
+          td(title='U+1F7D2: LIGHT TWELVE POINTED BLACK STAR') 🟒
+          td(title='U+1F7D3: HEAVY TWELVE POINTED BLACK STAR') 🟓
+          td(title='U+1F7D4: HEAVY TWELVE POINTED PINWHEEL STAR') 🟔
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+        tr
+          th U+1F7Ex
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+        tr
+          th U+1F7Fx
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
+          td.reserved
 
-
-  table
-    thead
-      tr
-        th Orientation
-        th(colspan="16") …
-        th(colspan="2") HORIZONTAL…
-      tr
-        th Color
-        th BLACK…
-        th WHITE…
-        th BLACK…
-        th WHITE…
-        th BLACK…
-        th WHITE…
-        th BLACK…
-        th WHITE…
-        th BLACK…
-        th WHITE…
-        th BLACK…
-        th WHITE…
-        th BLACK…
-        th WHITE…
-        th BLACK…
-        th WHITE…
-        th …BLACK…
-        th …WHITE…
-      tr
-        th Direction
-        th(colspan="6") …
-        th(colspan="2") …UP-POINTING…
-        th(colspan="2") …DOWN-POINTING…
-        th(colspan="2") …LEFT-POINTING…
-        th(colspan="2") …RIGHT-POINTING…
-        th(colspan="4") …
-    tbody
-      tr
-        th …VERY SMALL…
-        td.demo ⬝
-        td.demo ⬞
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-      tr
-        th …SMALL…
-        td.demo ▪
-        td.demo ▫
-        +nope
-        +nope
-        +nope
-        +nope
-        td.demo ▴
-        td.demo ▵
-        td.demo ▾
-        td.demo ▿
-        td.demo ◂
-        td.demo ◃
-        td.demo ►
-        td.demo ▻
-        +nope
-        +nope
-        +nope
-        +nope
-      tr
-        th …MEDIUM SMALL…
-        td.demo ◾
-        td.demo ◽
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-      tr
-        th …SLIGHTLY SMALL…
-        +nope
-        +nope
-        td.demo 🞄
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-      tr
-        th …MEDIUM…
-        td.demo ◼
-        td.demo ◻
-        td.demo ⚫
-        +nope
-        td.demo ⬥
-        td.demo ⬦
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-      tr
-        th …
-        td.demo ■
-        td.demo □
-        td.demo ●
-        td.demo ○
-        td.demo ◆
-        td.demo ◇
-        td.demo ▲
-        td.demo △
-        td.demo ▼
-        td.demo ▽
-        td.demo ◀
-        td.demo ◁
-        td.demo ▶
-        td.demo ▷
-        td.demo ⬢
-        td.demo ⬡
-        td.demo ⬣
-        +nope
-      tr
-        th …LARGE…
-        td.demo ⬛
-        td.demo ⬜
-        td.demo ⬤
-        td.demo ◯
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-        +nope
-    tfood
-      tr
-        th Shape
-        th(colspan="2") …SQUARE
-        th(colspan="2") …CIRCLE
-        th(colspan="2") …DIAMOND
-        th(colspan="8") …TRIANGLE
-        th(colspan="8") …HEXAGON
-  table
-    caption Shapes by the amount of corners
-    thead
-      tr
-        th Style
-        th 3
-        th 4
-        th 5
-        th 6
-        th 7
-        th 8
-        th ∞
-    tbody
-      tr
-        th Black
-        td.demo ▲
-        td.demo ■
-        td.demo ⬟
-        td.demo ⬢
-        +nope
-        td.demo ⯄
-        td.demo ●
-      tr
-        th White
-        td.demo △
-        td.demo □
-        td.demo ⬠
-        td.demo ⬡
-        +nope
-        td.demo ⯄
-        td.demo ○
-      tr
-        th Dotted
-        +nope
-        td.demo ⬚
-        +nope
-        +nope
-        +nope
-        +nope
-        td.demo ◌
+  .glyph-list
+    each glyph in glyphs
+      figure
+        = glyph[1]
+        figcaption= glyph[0]
   dl
     dt Circlish
-    dd ⛔ ☯ ⭙ ◴ ◕ ◓ ◎ ◍ ◌ ○ ◉
+    dd(style="font-size: 5em") ⛔ ☯ ⭙ ◴ ◕ ◓ ◎ ◍ ◌ ○ ◉ ♾ 🞄  🞅 🞆 🞇 🞈 🞉  🞋 
+  dl
+    dt Square sizes
+    dd(style="font-size: 5em") 🞌 ▪ ◾ ◼ 🞍 ■  ⬛

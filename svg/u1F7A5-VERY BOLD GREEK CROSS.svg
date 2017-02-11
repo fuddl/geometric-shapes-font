@@ -1,0 +1,15 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u1F7A5-VERY BOLD GREEK CROSS</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -16166.7 -12000)" figma:type="canvas">
+<g id="u1F7A5-VERY BOLD GREEK CROSS" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 194 144L 206 144L 206 156L 194 156L 194 144Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(194 144)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 8.5 0L 3.5 0L 3.5 3.5L 0 3.5L 0 8.5L 3.5 8.5L 3.5 12L 8.5 12L 8.5 8.5L 12 8.5L 12 3.5L 8.5 3.5L 8.5 0Z"/>
+</defs>
+</svg>

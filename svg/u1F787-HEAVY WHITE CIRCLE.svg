@@ -1,0 +1,15 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u1F787-HEAVY WHITE CIRCLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -14000 -14250)" figma:type="canvas">
+<g id="u1F787-HEAVY WHITE CIRCLE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 168 171L 180 171L 180 183L 168 183L 168 171Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(168 171)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6 12C 9.31371 12 12 9.31371 12 6C 12 2.68629 9.31371 0 6 0C 2.68629 0 0 2.68629 0 6C 0 9.31371 2.68629 12 6 12ZM 6 8C 7.10457 8 8 7.10457 8 6C 8 4.89543 7.10457 4 6 4C 4.89543 4 4 4.89543 4 6C 4 7.10457 4.89543 8 6 8Z"/>
+</defs>
+</svg>

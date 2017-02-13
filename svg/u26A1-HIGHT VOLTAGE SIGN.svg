@@ -1,0 +1,15 @@
+<svg width="1166.67" height="1000" viewBox="0 0 1166.67 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u26A1-HIGHT VOLTAGE SIGN</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -16916.7 -15500)" figma:type="canvas">
+<g id="u26A1-HIGHT VOLTAGE SIGN" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 203 186L 216.86 186L 216.86 198L 203 198L 203 186Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(203 186)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6.92821 0L 13.8564 12L 0 12L 6.92821 0ZM 6.94615 2L 12.1423 11L 1.75 11L 6.94615 2ZM 7 5L 7 7L 5.5 7L 7 10L 7 8L 8.5 8L 7 5Z"/>
+</defs>
+</svg>

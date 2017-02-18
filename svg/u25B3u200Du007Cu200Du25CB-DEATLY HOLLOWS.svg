@@ -1,0 +1,15 @@
+<svg width="1166.67" height="1000" viewBox="0 0 1166.67 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25B3u200Du007Cu200Du25CB-DEATLY HOLLOWS</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -16916.7 -3250)" figma:type="canvas">
+<g id="u25B3u200Du007Cu200Du25CB-DEATLY HOLLOWS" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 203 39L 216.86 39L 216.86 51L 203 51L 203 39Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(203.072 39)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 13.8564 12L 10.4308 6.06673C 10.4072 6.02391 10.3827 5.98157 10.3575 5.93974L 6.92821 0L 3.49872 5.94004C 3.47366 5.98167 3.44934 6.0238 3.42577 6.06641L 0 12L 6.42821 12L 6.92821 12L 7.42821 12L 13.8564 12ZM 7.42821 10.9585C 8.84706 10.7205 9.92821 9.4865 9.92821 8C 9.92821 6.5135 8.84706 5.27951 7.42821 5.04148L 7.42821 10.9585ZM 6.42821 10.9585L 6.42821 5.04148C 5.63618 5.17436 4.94939 5.61757 4.49715 6.24181L 4.18748 6.77816C 4.02086 7.15137 3.92821 7.56487 3.92821 8C 3.92821 9.4865 5.00935 10.7205 6.42821 10.9585ZM 7.42821 4.03095C 7.70343 4.06527 7.96997 4.12755 8.2249 4.21486L 7.42821 2.83495L 7.42821 4.03095ZM 6.42821 2.89711L 5.67604 4.1999C 5.91743 4.12041 6.16896 4.06327 6.42821 4.03095L 6.42821 2.89711ZM 12.1423 11L 10.8543 8.76916C 10.6826 9.65054 10.2216 10.4285 9.57404 11L 12.1423 11ZM 4.28238 11C 3.64615 10.4384 3.18993 9.67767 3.01135 8.81527L 1.75 11L 4.28238 11Z"/>
+</defs>
+</svg>

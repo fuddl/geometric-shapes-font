@@ -1,0 +1,15 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u1F78F-MEDIUM WHITE SQUARE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -16166.7 -1083.33)" figma:type="canvas">
+<g id="u1F78F-MEDIUM WHITE SQUARE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 194 13L 206 13L 206 25L 194 25L 194 13Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(194 13)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 12 0L 0 0L 0 12L 12 12L 12 0ZM 10 2L 2 2L 2 10L 10 10L 10 2Z"/>
+</defs>
+</svg>

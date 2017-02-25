@@ -77,7 +77,6 @@ gulp.task 'build', ->
       console.log table.toString()
 
 
-      console.log glyphList
 
       pugOpts = 
         locals:

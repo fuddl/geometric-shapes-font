@@ -1,0 +1,15 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u25CBu200Du25b3u200Du25a1u200Du25CB-PHILOSOPHERS STONE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -18166.7 -3250)" figma:type="canvas">
+<g id="u25CBu200Du25b3u200Du25a1u200Du25CB-PHILOSOPHERS STONE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 218 39L 230 39L 230 51L 218 51L 218 39Z" fill="#FFFFFF"/>
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(218 39)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 10.6105 9C 9.62918 10.5051 7.93077 11.5 6 11.5C 4.06923 11.5 2.37082 10.5051 1.38947 9L 3.69 9L 4.19 9L 7.81 9L 8.31 9L 10.6105 9ZM 6 8.5L 4.19 8.5L 4.19 6.69C 4.19 7.68964 5.00037 8.5 6 8.5ZM 7.81 6.69C 7.81 7.68964 6.99963 8.5 6 8.5L 7.81 8.5L 7.81 6.69ZM 6 4.88C 5.00037 4.88 4.19 5.69036 4.19 6.69L 4.19 4.88L 6 4.88ZM 6 4.88C 6.99963 4.88 7.81 5.69036 7.81 6.69L 7.81 4.88L 6 4.88ZM 10.3301 8.5L 8.31 8.5L 8.31 5.00104L 10.3301 8.5ZM 6 1L 7.95145 4.38L 7.81 4.38L 4.19 4.38L 4.04855 4.38L 6 1ZM 3.69 8.5L 3.69 5.00104L 1.66988 8.5L 3.69 8.5ZM 10.9037 8.4934L 6.29311 0.507675C 9.1944 0.660023 11.5 3.06076 11.5 6C 11.5 6.89758 11.285 7.74495 10.9037 8.4934ZM 5.70689 0.507675L 1.09634 8.4934C 0.715012 7.74495 0.5 6.89758 0.5 6C 0.5 3.06076 2.8056 0.660023 5.70689 0.507675ZM 6 0C 9.31371 0 12 2.68629 12 6C 12 9.31371 9.31371 12 6 12C 2.68629 12 0 9.31371 0 6C 0 2.68629 2.68629 0 6 0ZM 7.31 6.69C 7.31 7.41349 6.7235 8 6 8C 5.2765 8 4.69 7.41349 4.69 6.69C 4.69 5.96651 5.2765 5.38 6 5.38C 6.7235 5.38 7.31 5.96651 7.31 6.69Z"/>
+</defs>
+</svg>

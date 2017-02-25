@@ -1,0 +1,15 @@
+<svg width="666.667" height="1000" viewBox="0 0 666.667 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u1F79F-BLACK MEDIUM SMALL LOZENGE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -18166.7 -10916.7)" figma:type="canvas">
+<g id="u1F79F-BLACK MEDIUM SMALL LOZENGE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 218 131L 226 131L 226 143L 218 143L 218 131Z" fill="#FFFFFF"/>
+<g id="Rectangle 10" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(219.67 132.338)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 2.33 0L 4.66 4.66153L 2.33 9.32306L 0 4.66153L 2.33 0Z"/>
+</defs>
+</svg>

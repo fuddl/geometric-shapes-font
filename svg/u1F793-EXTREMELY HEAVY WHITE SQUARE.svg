@@ -1,0 +1,15 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>u1F793-EXTREMELY HEAVY WHITE SQUARE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -20666.7 -1083.33)" figma:type="canvas">
+<g id="u1F793-EXTREMELY HEAVY WHITE SQUARE" style="mix-blend-mode:normal;" figma:type="frame">
+<path d="M 248 13L 260 13L 260 25L 248 25L 248 13Z" fill="#FFFFFF"/>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(248 13)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 12 0L 0 0L 0 12L 12 12L 12 0ZM 6.5 5.5L 5.5 5.5L 5.5 6.5L 6.5 6.5L 6.5 5.5Z"/>
+</defs>
+</svg>

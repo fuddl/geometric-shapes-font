@@ -1,11 +1,11 @@
-<svg width="1083.33" height="1000" viewBox="0 0 1083.33 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1084" height="1001" viewBox="0 0 1084 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25B1-WHITE PARALLELOGRAM</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -1083.33 -1083.33)" figma:type="canvas">
-<g id="u25B1-WHITE PARALLELOGRAM" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -1083.33 -1083.33)">
+<g id="u25B1-WHITE PARALLELOGRAM">
 <path d="M 13.0711 13L 25.0711 13L 25.0711 25L 13.0711 25L 13.0711 13Z" fill="#FFFFFF"/>
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(13.0711 13)" style="mix-blend-mode:normal;"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(13.0711 13)"/>
 </g>
 </g>
 </g>

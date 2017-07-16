@@ -1,11 +1,11 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u2699-GEAR</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -10083.3 -13666.7)" figma:type="canvas">
-<g id="u2699-GEAR" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -10083.3 -13666.7)">
+<g id="u2699-GEAR">
 <path d="M 121 164L 133 164L 133 176L 121 176L 121 164Z" fill="#FFFFFF"/>
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(121 164)" style="mix-blend-mode:normal;"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(121 164)"/>
 </g>
 </g>
 </g>

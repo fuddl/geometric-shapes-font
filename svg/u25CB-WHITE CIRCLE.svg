@@ -1,11 +1,11 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25CB-WHITE CIRCLE</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -2333.33 -12000)" figma:type="canvas">
-<g id="u25CB-WHITE CIRCLE" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -2333.33 -12000)">
+<g id="u25CB-WHITE CIRCLE">
 <path d="M 28 144L 40 144L 40 156L 28 156L 28 144Z" fill="#FFFFFF"/>
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(28 144)" style="mix-blend-mode:normal;"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(28 144)"/>
 </g>
 </g>
 </g>

@@ -1,11 +1,11 @@
-<svg width="500" height="1000" viewBox="0 0 500 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="501" height="1001" viewBox="0 0 501 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25D7-RIGHT HALF BLACK CIRCLE</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -3250 -7583.33)" figma:type="canvas">
-<g id="u25D7-RIGHT HALF BLACK CIRCLE" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -3250 -7583.33)">
+<g id="u25D7-RIGHT HALF BLACK CIRCLE">
 <path d="M 39 91L 45 91L 45 103L 39 103L 39 91Z" fill="#FFFFFF"/>
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 45 91)" style="mix-blend-mode:normal;"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 45 91)"/>
 </g>
 </g>
 </g>

@@ -1,11 +1,11 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25E6-WHITE BULLET</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -4333.33 -6500)" figma:type="canvas">
-<g id="u25E6-WHITE BULLET" style="mix-blend-mode:normal;isolation:isolate;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -4333.33 -6500)">
+<g id="u25E6-WHITE BULLET">
 <path d="M 52 78L 64 78L 64 90L 52 90L 52 78Z" fill="#FFFFFF"/>
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(56 82)" style="mix-blend-mode:normal;"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(56 82)"/>
 </g>
 </g>
 </g>

@@ -1,11 +1,11 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u2611-BALLOT BOX WITH CHECK</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -11666.7 333.333)" figma:type="canvas">
-<g id="u2611-BALLOT BOX WITH CHECK" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -11666.7 333.333)">
+<g id="u2611-BALLOT BOX WITH CHECK">
 <path d="M 140 -4L 152 -4L 152 8L 140 8L 140 -4Z" fill="#FFFFFF"/>
-<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(140 -4)" style="mix-blend-mode:normal;"/>
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(140 -4)"/>
 </g>
 </g>
 </g>

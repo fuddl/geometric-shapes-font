@@ -47,16 +47,18 @@ gulp.task 'build', ->
     descent: 200
     fontHeight: 1000
 
+  svgoPlugins = [
+    transformsWithOnePath: yes
+    removeEditorsNSData: yes
+    removeDesc: yes
+    removeTitle: yes
+    collapseGroups: yes
+  ]
+  
   gulp
     .src 'svg/*.svg'
     .pipe cheerio cleanUpFigmaSVG
-    .pipe svgo plugins: [
-      transformsWithOnePath: yes
-      removeEditorsNSData: yes
-      removeDesc: yes
-      removeTitle: yes
-      collapseGroups: yes
-    ]
+    .pipe svgo plugins: svgoPlugins
     .pipe gulp.dest 'processed-svg'
     .pipe iconfont options
     .on 'glyphs', (glyphs, options) ->

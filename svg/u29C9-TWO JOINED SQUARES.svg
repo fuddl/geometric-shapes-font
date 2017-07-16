@@ -1,0 +1,18 @@
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>u29C9-TWO JOINED SQUARES</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -21416.7 -3000)">
+<g id="u29C9-TWO JOINED SQUARES">
+<path d="M 257 36L 269 36L 269 48L 257 48L 257 36Z" fill="#FFFFFF"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(257 36)"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(259 38)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 10 0L 0 0L 0 10L 10 10L 10 0ZM 9 1L 1 1L 1 9L 9 9L 9 1Z"/>
+</defs>
+</svg>

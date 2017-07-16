@@ -1,0 +1,19 @@
+<svg width="834" height="1001" viewBox="0 0 834 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>u29CA-TRIANGLE WITH DOT ABOVE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -20083.3 -5416.67)">
+<g id="u29CA-TRIANGLE WITH DOT ABOVE">
+<path d="M 241 65L 251 65L 251 77L 241 77L 241 65Z" fill="#FFFFFF"/>
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(245 65)"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path1_fill" transform="translate(241.381 68)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 2 1C 2 1.55228 1.55228 2 1 2C 0.447715 2 0 1.55228 0 1C 0 0.447715 0.447715 0 1 0C 1.55228 0 2 0.447715 2 1Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 9.23761 8L 4.6188 0L 0 8L 9.23761 8ZM 7.5235 7L 4.63675 2L 1.75 7L 7.5235 7Z"/>
+</defs>
+</svg>

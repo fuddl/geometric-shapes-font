@@ -1,11 +1,11 @@
-<svg width="1083.33" height="1000" viewBox="0 0 1083.33 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1084" height="1001" viewBox="0 0 1084 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u2B23-HORIZONTAL BLACK HEXAGON</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -12833.3 -10250)" figma:type="canvas">
-<g id="u2B23-HORIZONTAL BLACK HEXAGON" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -12833.3 -10250)">
+<g id="u2B23-HORIZONTAL BLACK HEXAGON">
 <path d="M 155 123L 165.39 123L 165.39 135L 155 135L 155 123Z" fill="#FFFFFF"/>
-<g id="Polygon 2" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 166.196 123.804)" style="mix-blend-mode:normal;"/>
+<g id="Polygon 2">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 166.196 123.804)"/>
 </g>
 </g>
 </g>

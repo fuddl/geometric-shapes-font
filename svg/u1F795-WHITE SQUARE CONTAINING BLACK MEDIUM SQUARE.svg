@@ -1,11 +1,11 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u1F795-WHITE SQUARE CONTAINING BLACK MEDIUM SQUARE</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -21833.3 416.667)" figma:type="canvas">
-<g id="u1F795-WHITE SQUARE CONTAINING BLACK MEDIUM SQUARE" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -21833.3 416.667)">
+<g id="u1F795-WHITE SQUARE CONTAINING BLACK MEDIUM SQUARE">
 <path d="M 262 -5L 274 -5L 274 7L 262 7L 262 -5Z" fill="#FFFFFF"/>
-<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(262 -5)" style="mix-blend-mode:normal;"/>
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(262 -5)"/>
 </g>
 </g>
 </g>

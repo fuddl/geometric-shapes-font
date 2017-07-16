@@ -1,11 +1,11 @@
-<svg width="500" height="1000" viewBox="0 0 500 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="501" height="1001" viewBox="0 0 501 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u1F780-BLACK LEFT-POINTING ISOSCELES LEFT TRIANGLE</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -8750 0)" figma:type="canvas">
-<g id="u1F780-BLACK LEFT-POINTING ISOSCELES LEFT TRIANGLE" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -8750 0)">
+<g id="u1F780-BLACK LEFT-POINTING ISOSCELES LEFT TRIANGLE">
 <path d="M 105 -1.5339e-15L 111 -1.5339e-15L 111 12L 105 12L 105 -1.5339e-15Z" fill="#FFFFFF"/>
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(105.34 0.343147)" style="mix-blend-mode:normal;"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(105.34 0.343147)"/>
 </g>
 </g>
 </g>

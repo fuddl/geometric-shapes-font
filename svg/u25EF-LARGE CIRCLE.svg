@@ -1,11 +1,11 @@
-<svg width="1166.67" height="1166.67" viewBox="0 0 1166.67 1166.67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1167" height="1167" viewBox="0 0 1167 1167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25EF-LARGE CIRCLE</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -4500 -16250)" figma:type="canvas">
-<g id="u25EF-LARGE CIRCLE" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -4500 -16250)">
+<g id="u25EF-LARGE CIRCLE">
 <path d="M 54 196L 68 196L 68 208L 54 208L 54 196Z" fill="#FFFFFF"/>
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(54 195)" style="mix-blend-mode:normal;"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(54 195)"/>
 </g>
 </g>
 </g>

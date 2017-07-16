@@ -1,11 +1,11 @@
-<svg width="1083.33" height="1000" viewBox="0 0 1083.33 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1084" height="1001" viewBox="0 0 1084 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u269B-ATOM SYMBOL</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -16583.3 -4833.33)" figma:type="canvas">
-<g id="u269B-ATOM SYMBOL" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -16583.3 -4833.33)">
+<g id="u269B-ATOM SYMBOL">
 <path d="M 199.5 58L 211.5 58L 211.5 70L 199.5 70L 199.5 58Z" fill="#FFFFFF"/>
-<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(200.09 58)" style="mix-blend-mode:normal;"/>
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(200.09 58)"/>
 </g>
 </g>
 </g>

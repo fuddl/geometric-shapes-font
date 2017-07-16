@@ -1,0 +1,19 @@
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>u29C7-SQUARED SMALL CIRCLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -20166.7 -4250)">
+<g id="u29C7-SQUARED SMALL CIRCLE">
+<path d="M 242 51L 254 51L 254 63L 242 63L 242 51Z" fill="#FFFFFF"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(242 51)"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path1_fill" transform="translate(245 54)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 12 0L 0 0L 0 12L 12 12L 12 0ZM 11 1L 1 1L 1 11L 11 11L 11 1Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 3 6C 4.65686 6 6 4.65685 6 3C 6 1.34315 4.65686 0 3 0C 1.34314 0 0 1.34315 0 3C 0 4.65685 1.34314 6 3 6ZM 3 5.25C 4.24265 5.25 5.25 4.24264 5.25 3C 5.25 1.75736 4.24265 0.75 3 0.75C 1.75735 0.75 0.75 1.75736 0.75 3C 0.75 4.24264 1.75735 5.25 3 5.25Z"/>
+</defs>
+</svg>

@@ -1,11 +1,11 @@
-<svg width="1000" height="1166.67" viewBox="0 0 1000 1166.67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1001" height="1167" viewBox="0 0 1001 1167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25B7-WHITE RIGHT-POINTING TRIANGLE</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -1083.33 -7583.33)" figma:type="canvas">
-<g id="u25B7-WHITE RIGHT-POINTING TRIANGLE" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -1083.33 -7583.33)">
+<g id="u25B7-WHITE RIGHT-POINTING TRIANGLE">
 <path d="M 13 92L 25 92L 25 104L 13 104L 13 92Z" fill="#FFFFFF"/>
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 25 91.0718)" style="mix-blend-mode:normal;"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 25 91.0718)"/>
 </g>
 </g>
 </g>

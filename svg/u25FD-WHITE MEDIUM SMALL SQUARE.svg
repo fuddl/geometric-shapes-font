@@ -1,11 +1,11 @@
-<svg width="833.333" height="1000" viewBox="0 0 833.333 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="834" height="1001" viewBox="0 0 834 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25FD-WHITE MEDIUM SMALL SQUARE</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -6583.33 -14166.7)" figma:type="canvas">
-<g id="u25FD-WHITE MEDIUM SMALL SQUARE" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -6583.33 -14166.7)">
+<g id="u25FD-WHITE MEDIUM SMALL SQUARE">
 <path d="M 79 170L 89 170L 89 182L 79 182L 79 170Z" fill="#FFFFFF"/>
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(79 171)" style="mix-blend-mode:normal;"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(79 171)"/>
 </g>
 </g>
 </g>

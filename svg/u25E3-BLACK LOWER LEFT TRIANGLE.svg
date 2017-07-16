@@ -1,11 +1,11 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25E3-BLACK LOWER LEFT TRIANGLE</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -4333.33 -3250)" figma:type="canvas">
-<g id="u25E3-BLACK LOWER LEFT TRIANGLE" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -4333.33 -3250)">
+<g id="u25E3-BLACK LOWER LEFT TRIANGLE">
 <path d="M 52 39L 64 39L 64 51L 52 51L 52 39Z" fill="#FFFFFF"/>
-<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 64 39)" style="mix-blend-mode:normal;"/>
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 64 39)"/>
 </g>
 </g>
 </g>

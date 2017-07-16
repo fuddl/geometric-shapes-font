@@ -1,11 +1,11 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25E4-BLACK UPPER LEFT TRIANGLE</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -4333.33 -4333.33)" figma:type="canvas">
-<g id="u25E4-BLACK UPPER LEFT TRIANGLE" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -4333.33 -4333.33)">
+<g id="u25E4-BLACK UPPER LEFT TRIANGLE">
 <path d="M 52 52L 64 52L 64 64L 52 64L 52 52Z" fill="#FFFFFF"/>
-<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path0_fill" transform="matrix(-1 1.22465e-16 -1.22465e-16 -1 64 64)" style="mix-blend-mode:normal;"/>
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="matrix(-1 1.22465e-16 -1.22465e-16 -1 64 64)"/>
 </g>
 </g>
 </g>

@@ -1,0 +1,20 @@
+<svg width="834" height="1251" viewBox="0 0 834 1251" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>u29CE-RIGHT TRIANGLE ABOVE LEFT TRIANGLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -6000 -20750)">
+<g id="u29CE-RIGHT TRIANGLE ABOVE LEFT TRIANGLE">
+<path d="M 72 250L 81.24 250L 81.24 262L 72 262L 72 250Z" fill="#FFFFFF"/>
+<g id="Group">
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(72 254)"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="matrix(-1 1.22465e-16 -1.22465e-16 -1 81.24 258.238)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 9.24 9.23761L 0 4.6188L 9.24 0L 9.24 9.23761ZM 8.24094 7.73338L 2.00094 4.61418L 8.24094 1.495L 8.24094 7.73338Z"/>
+</defs>
+</svg>

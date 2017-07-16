@@ -1,11 +1,11 @@
-<svg width="833.333" height="1000" viewBox="0 0 833.333 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="834" height="1001" viewBox="0 0 834 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25FC-BLACK MEDIUM SQUARE</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -6583.33 -13083.3)" figma:type="canvas">
-<g id="u25FC-BLACK MEDIUM SQUARE" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -6583.33 -13083.3)">
+<g id="u25FC-BLACK MEDIUM SQUARE">
 <path d="M 79 157L 89 157L 89 169L 79 169L 79 157Z" fill="#FFFFFF"/>
-<g id="Rectangle 2" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
-<use xlink:href="#path0_fill" transform="translate(79 158)" style="mix-blend-mode:normal;"/>
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="translate(79 158)"/>
 </g>
 </g>
 </g>

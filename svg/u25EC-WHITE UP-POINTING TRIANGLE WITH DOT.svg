@@ -1,11 +1,11 @@
-<svg width="1166.67" height="1000" viewBox="0 0 1166.67 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1167" height="1001" viewBox="0 0 1167 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25EC-WHITE UP-POINTING TRIANGLE WITH DOT</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -4500 -13083.3)" figma:type="canvas">
-<g id="u25EC-WHITE UP-POINTING TRIANGLE WITH DOT" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -4500 -13083.3)">
+<g id="u25EC-WHITE UP-POINTING TRIANGLE WITH DOT">
 <path d="M 54 157L 67.86 157L 67.86 169L 54 169L 54 157Z" fill="#FFFFFF"/>
-<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(54 157)" style="mix-blend-mode:normal;"/>
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(54 157)"/>
 </g>
 </g>
 </g>

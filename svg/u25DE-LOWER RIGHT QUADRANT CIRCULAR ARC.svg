@@ -1,11 +1,11 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25DE-LOWER RIGHT QUADRANT CIRCULAR ARC</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -3416.67 -15250)" figma:type="canvas">
-<g id="u25DE-LOWER RIGHT QUADRANT CIRCULAR ARC" style="mix-blend-mode:normal;isolation:isolate;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -3416.67 -15250)">
+<g id="u25DE-LOWER RIGHT QUADRANT CIRCULAR ARC">
 <path d="M 41 183L 53 183L 53 195L 41 195L 41 183Z" fill="#FFFFFF"/>
-<g id="Intersect" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="matrix(-1 1.22465e-16 -1.22465e-16 -1 53 195)" style="mix-blend-mode:normal;"/>
+<g id="Intersect">
+<use xlink:href="#path0_fill" transform="matrix(-1 1.22465e-16 -1.22465e-16 -1 53 195)"/>
 </g>
 </g>
 </g>

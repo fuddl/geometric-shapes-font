@@ -1,0 +1,15 @@
+<svg width="1167" height="1001" viewBox="0 0 1167 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>u29CC-S IN TRIANGLE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -20083.3 -6666.67)">
+<g id="u29CC-S IN TRIANGLE">
+<path d="M 241 80L 254.86 80L 254.86 92L 241 92L 241 80Z" fill="#FFFFFF"/>
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(241 80)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6.92821 0L 13.8564 12L 0 12L 6.92821 0ZM 6.94615 2L 12.1423 11L 1.75 11L 6.94615 2ZM 5.5 7C 5.5 6.17157 6.17157 5.5 7 5.5L 8.5 5.5L 8.5 6.5L 7 6.5C 6.72386 6.5 6.5 6.72385 6.5 7C 6.5 7.27615 6.72386 7.5 7 7.5C 7.82843 7.5 8.5 8.17157 8.5 9C 8.5 9.82843 7.82843 10.5 7 10.5L 5.5 10.5L 5.5 9.5L 7 9.5C 7.27614 9.5 7.5 9.27615 7.5 9C 7.5 8.72385 7.27614 8.5 7 8.5C 6.17157 8.5 5.5 7.82843 5.5 7Z"/>
+</defs>
+</svg>

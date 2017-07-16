@@ -1,11 +1,11 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u26D4-NO ENTRY</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -12916.7 -16250)" figma:type="canvas">
-<g id="u26D4-NO ENTRY" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -12916.7 -16250)">
+<g id="u26D4-NO ENTRY">
 <path d="M 155 195L 167 195L 167 207L 155 207L 155 195Z" fill="#FFFFFF"/>
-<g id="Exclude" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(155 195)" style="mix-blend-mode:normal;"/>
+<g id="Exclude">
+<use xlink:href="#path0_fill" transform="translate(155 195)"/>
 </g>
 </g>
 </g>

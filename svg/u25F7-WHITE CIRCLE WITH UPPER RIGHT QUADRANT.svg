@@ -1,11 +1,11 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1001" height="1001" viewBox="0 0 1001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25F7-WHITE CIRCLE WITH UPPER RIGHT QUADRANT</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -6416.67 -7583.33)" figma:type="canvas">
-<g id="u25F7-WHITE CIRCLE WITH UPPER RIGHT QUADRANT" style="mix-blend-mode:normal;isolation:isolate;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -6416.67 -7583.33)">
+<g id="u25F7-WHITE CIRCLE WITH UPPER RIGHT QUADRANT">
 <path d="M 77 91L 89 91L 89 103L 77 103L 77 91Z" fill="#FFFFFF"/>
-<g id="Exclude" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="matrix(1 -7.34788e-16 7.34788e-16 1 77 91)" style="mix-blend-mode:normal;"/>
+<g id="Exclude">
+<use xlink:href="#path0_fill" transform="matrix(1 -7.34788e-16 7.34788e-16 1 77 91)"/>
 </g>
 </g>
 </g>

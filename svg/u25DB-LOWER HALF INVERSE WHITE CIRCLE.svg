@@ -1,11 +1,11 @@
-<svg width="2000" height="1000" viewBox="0 0 2000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="2001" height="1001" viewBox="0 0 2001 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u25DB-LOWER HALF INVERSE WHITE CIRCLE</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -3416.67 -12000)" figma:type="canvas">
-<g id="u25DB-LOWER HALF INVERSE WHITE CIRCLE" style="mix-blend-mode:normal;isolation:isolate;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -3416.67 -12000)">
+<g id="u25DB-LOWER HALF INVERSE WHITE CIRCLE">
 <path d="M 41 144L 65 144L 65 156L 41 156L 41 144Z" fill="#FFFFFF"/>
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="matrix(-1 0 0 -1 65 156)" style="mix-blend-mode:normal;"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="matrix(-1 0 0 -1 65 156)"/>
 </g>
 </g>
 </g>

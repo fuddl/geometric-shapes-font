@@ -1,11 +1,11 @@
-<svg width="833.333" height="1000" viewBox="0 0 833.333 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="834" height="1001" viewBox="0 0 834 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>u2B26-WHITE MEDIUM DIAMOND</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -13916.7 -2166.67)" figma:type="canvas">
-<g id="u2B26-WHITE MEDIUM DIAMOND" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -13916.7 -2166.67)">
+<g id="u2B26-WHITE MEDIUM DIAMOND">
 <path d="M 167 26L 177 26L 177 38L 167 38L 167 26Z" fill="#FFFFFF"/>
-<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="matrix(0.707107 0.707107 -0.707107 0.707107 171.95 27.0503)" style="mix-blend-mode:normal;"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="matrix(0.707107 0.707107 -0.707107 0.707107 171.95 27.0503)"/>
 </g>
 </g>
 </g>

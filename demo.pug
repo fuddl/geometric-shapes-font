@@ -365,18 +365,131 @@ html
   .glyph-list
     each glyph in glyphs
       figure
-        = glyph[1]
-        figcaption= glyph[0] 
+        = glyph[1] 
+        figcaption= glyph[0]
   dl
-    dt Circlish
-    dd(style="font-size: 5em") ⛔ ☯ ⭙ ◴ ◕ ◓ ◎ ◍ ◌ ○ ◉ ♾ 🞄  🞅 🞆 🞇 🞈 🞉  🞋 ⚙ ○‍△‍□‍○&nbsp;
-    dt Triangular
-    dd(style="font-size: 5em") ⚡️◮⚠◬△▲⧌
-    dt Square sizes
-    dd(style="font-size: 5em") 🞌 ▪ ◾ ◼ 🞍 ■  ⬛
-    dt Left half
-    dd(style="font-size: 5em") ◐ ⯪ ◮ ◧
+    dt Circles
+    dd(style="font-size: 5em") 
+      each glyph in glyphs
+        if glyph[0].includes("CIRCLE")
+          =glyph[1]
+          | #{" "}
+      | ⛔ ☯ ⚙ ○‍△‍□‍○&nbsp;
+    dt Dots
+    dd(style="font-size: 5em") 
+      each glyph in glyphs
+        if glyph[0].includes("DOT")
+          =glyph[1]
+          | #{" "}
+    dt Triangles
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("TRIANGLE")
+          =glyph[1]
+          | #{" "}
+      | ⚡️⚠⧌
     dt Squares
-    dd(style="font-size: 5em") ⛶ ⬚ ☐ ☑ ☒ ◫ ⮽ ■ ◧ ⚅ ⧅
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("SQUARE")
+          =glyph[1]
+          | #{" "}
+      | ⚅
+    dt Left half
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("LEFT HALF")
+          =glyph[1]
+          | #{" "}
+    dt Right half
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("RIGHT HALF")
+          =glyph[1]
+          | #{" "}
+    dt Target 
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("TARGET")
+          =glyph[1]
+          | #{" "}
+    dt Bullet 
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("BULLET")
+          =glyph[1]
+          | #{" "}
+    dt Tiny
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("TINY")
+          =glyph[1]
+          | #{" "}   
+    dt Very Small 
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("VERY SMALL")
+          =glyph[1]
+          | #{" "}
+    dt Small 
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("SMALL") && !glyph[0].includes("VERY SMALL")
+          =glyph[1]
+          | #{" "}
+    dt Medium
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("MEDIUM")
+          =glyph[1]
+          | #{" "}
+    dt Cross
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("CROSS") || glyph[0].includes("PLUS") || glyph[0].includes(" X") || glyph[0].includes("TIMES")
+          =glyph[1]
+          | #{" "}
+    dt Horizontal
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("HORIZONTAL")
+          =glyph[1]
+          | #{" "}
+    dt Vertical
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("VERTICAL")
+          =glyph[1]
+          | #{" "}
+    dt Left
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("LEFT")
+          =glyph[1]
+          | #{" "}
+    dt Right
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("RIGHT")
+          =glyph[1]
+          | #{" "}
+    dt Down
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("DOWN")
+          =glyph[1]
+          | #{" "}
+    dt Up
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("UP")
+          =glyph[1]
+          | #{" "}
+    dt Containng
+    dd(style="font-size: 5em")
+      each glyph in glyphs
+        if glyph[0].includes("CONTAINING")
+          =glyph[1]
+          | #{" "}
     dt Ovals
     dd(style="font-size: 5em") ⬬ ⬭ ⬮ ⬯ ⚛

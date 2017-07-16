@@ -7,9 +7,13 @@
 <g id="Union">
 <use xlink:href="#path0_fill" transform="translate(221 -5)"/>
 </g>
+<g id="Union">
+<use xlink:href="#path1_fill" transform="translate(221 -5)"/>
+</g>
 </g>
 </g>
 <defs>
-<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 12 0L 12 12L 0 12L 0 0ZM 1 1L 11 1L 11 11L 1 11L 1 1ZM 2 2L 10 2L 10 10L 2 10L 2 2ZM 3 3L 9 3L 9 9L 3 9L 3 3Z"/>
+<path id="path0_fill" fill-rule="evenodd" d="M 12 0L 0 0L 0 12L 12 12L 12 0ZM 11 1L 1 1L 1 11L 11 11L 11 1ZM 10 2L 2 2L 2 10L 10 10L 10 2ZM 9 3L 3 3L 3 9L 9 9L 9 3ZM 8 4L 4 4L 4 8L 8 8L 8 4Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 0L 12 0L 12 12L 0 12L 0 0ZM 1 1L 11 1L 11 11L 1 11L 1 1ZM 2 2L 10 2L 10 10L 2 10L 2 2ZM 3 3L 9 3L 9 9L 3 9L 3 3Z"/>
 </defs>
 </svg>

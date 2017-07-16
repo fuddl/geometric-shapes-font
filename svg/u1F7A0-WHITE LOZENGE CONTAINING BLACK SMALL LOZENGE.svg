@@ -1,0 +1,15 @@
+<svg width="667" height="1001" viewBox="0 0 667 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>u1F7A0-WHITE LOZENGE CONTAINING BLACK SMALL LOZENGE</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -18166.7 -12166.7)">
+<g id="u1F7A0-WHITE LOZENGE CONTAINING BLACK SMALL LOZENGE">
+<path d="M 218 146L 226 146L 226 158L 218 158L 218 146Z" fill="#FFFFFF"/>
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(219.67 147.338)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 1.77103 1.11833L 2.33 0L 2.88898 1.11833L 4.66 4.66153L 2.88898 8.20473L 2.33 9.32306L 1.77103 8.20473L 0 4.66153L 1.77103 1.11833ZM 1.11797 4.66153L 2.33 2.23665L 3.54204 4.66153L 2.33 7.0864L 1.11797 4.66153ZM 3.16 4.6615L 2.33 3.00096L 1.5 4.6615L 2.33 6.32205L 3.16 4.6615Z"/>
+</defs>
+</svg>

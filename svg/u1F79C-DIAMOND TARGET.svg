@@ -1,0 +1,23 @@
+<svg width="834" height="1001" viewBox="0 0 834 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>u1F79C-DIAMOND TARGET</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -10583.3 -8250)">
+<g id="u1F79C-DIAMOND TARGET">
+<path d="M 127 99L 136.9 99L 136.9 111L 127 111L 127 99Z" fill="#FFFFFF"/>
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(127 100.05)"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path1_fill" transform="translate(129.218 102.268)"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path2_fill" transform="translate(130.743 103.794)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 4.94975 0L 0 4.94975L 4.94975 9.89949L 9.89949 4.94975L 4.94975 0ZM 4.94975 1.41421L 1.41421 4.94975L 4.94975 8.48528L 8.48528 4.94975L 4.94975 1.41421Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 5.46445 2.73223L 2.73222 0L 0 2.73223L 2.73222 5.46446L 5.46445 2.73223ZM 4.5507 2.73223L 2.73222 0.913757L 0.913742 2.73223L 2.73222 4.5507L 4.5507 2.73223Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 2.41263 1.20632L 1.20631 0L 0 1.20632L 1.20631 2.41264L 2.41263 1.20632ZM 1.73378 1.20633L 1.20631 0.678864L 0.678848 1.20633L 1.20631 1.7338L 1.73378 1.20633Z"/>
+</defs>
+</svg>

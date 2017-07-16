@@ -1,0 +1,17 @@
+<svg width="501" height="1001" viewBox="0 0 501 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>u1F797-BLACK TINY DIAMOND</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -9166.67 -6000)">
+<g id="u1F797-BLACK TINY DIAMOND">
+<path d="M 110 72L 115.66 72L 115.66 84L 110 84L 110 72Z" fill="#FFFFFF"/>
+<g id="Group">
+<g id="Rectangle 10">
+<use xlink:href="#path0_fill" transform="matrix(0.707107 0.707107 -0.707107 0.707107 112.828 75.1716)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 4 0L 4 4L 0 4L 0 0Z"/>
+</defs>
+</svg>

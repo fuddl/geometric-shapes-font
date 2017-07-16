@@ -4,17 +4,12 @@
 <g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -6000 -20750)">
 <g id="u29CE-RIGHT TRIANGLE ABOVE LEFT TRIANGLE">
 <path d="M 72 250L 81.24 250L 81.24 262L 72 262L 72 250Z" fill="#FFFFFF"/>
-<g id="Group">
-<g id="Subtract">
-<use xlink:href="#path0_fill" transform="translate(72 254)"/>
-</g>
-<g id="Subtract">
-<use xlink:href="#path0_fill" transform="matrix(-1 1.22465e-16 -1.22465e-16 -1 81.24 258.238)"/>
-</g>
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(72 249)"/>
 </g>
 </g>
 </g>
 <defs>
-<path id="path0_fill" fill-rule="evenodd" d="M 9.24 9.23761L 0 4.6188L 9.24 0L 9.24 9.23761ZM 8.24094 7.73338L 2.00094 4.61418L 8.24094 1.495L 8.24094 7.73338Z"/>
+<path id="path0_fill" fill-rule="evenodd" d="M 9.24 4.6188L 0 0L 0 9.23761L 9.24 4.6188ZM 7.23906 4.62343L 0.999062 1.50423L 0.999062 7.74261L 7.23906 4.62343ZM 0 9.6188L 9.24 14.2376L 9.24 5L 0 9.6188ZM 2.00094 9.6142L 8.24094 12.7334L 8.24094 6.495L 2.00094 9.6142Z"/>
 </defs>
 </svg>

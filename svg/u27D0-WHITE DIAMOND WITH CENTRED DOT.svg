@@ -1,0 +1,15 @@
+<svg width="917" height="1001" viewBox="0 0 917 1001" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>u27D0-WHITE DIAMOND WITH CENTRED DOT</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(83.3333 0 0 83.3333 -10416.7 -6000)">
+<g id="u27D0-WHITE DIAMOND WITH CENTRED DOT">
+<path d="M 125.07 72L 135.07 72L 135.07 84L 125.07 84L 125.07 72Z" fill="#FFFFFF"/>
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(125.07 73.0503)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 4.94975L 4.94975 0L 9.8995 4.94975L 4.94975 9.8995L 0 4.94975ZM 1.41422 4.94975L 4.94975 1.41422L 8.48528 4.94975L 4.94975 8.48528L 1.41422 4.94975ZM 4.93 5.94975C 5.48229 5.94975 5.93 5.50203 5.93 4.94975C 5.93 4.39746 5.48229 3.94975 4.93 3.94975C 4.37771 3.94975 3.93 4.39746 3.93 4.94975C 3.93 5.50203 4.37771 5.94975 4.93 5.94975Z"/>
+</defs>
+</svg>
